@@ -29,6 +29,9 @@ cat1 = Category.find_or_create_by! name: 'Apparel'
 cat2 = Category.find_or_create_by! name: 'Electronics'
 cat3 = Category.find_or_create_by! name: 'Furniture'
 
+product_count = Product.count
+category_count = Category.count
+
 ## PRODUCTS
 
 puts "Re-creating Products ..."
