@@ -12,11 +12,11 @@ I really enjoyed working with the Ruby language.
 
 ## Images
 
-!["Products Page"]()
+!["Products Page"](https://github.com/SarahKeashly/Jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.08.34%20PM.png)
 
-!["Login"]()
+!["Login"](https://github.com/SarahKeashly/Jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.08.50%20PM.png)
 
-!["Category - Furniture page"]()
+!["Category - Furniture page"](https://github.com/SarahKeashly/Jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.09.03%20PM.png)
 
 ## Additional Steps for Apple M1 Machines
 
